@@ -84,3 +84,22 @@ Invoice checks demonstrate basic validation, not professional accounting advice.
 ## Technology
 
 Python, CrewAI, Gemini API, Pydantic, FastAPI, CSV, JSON, unittest.
+
+
+## Verified CrewAI + Gemini Execution
+
+The optional CrewAI workflow was successfully executed using
+Google Gemini 3.5 Flash Lite.
+
+Verified results:
+- CrewAI execution completed successfully.
+- Three-agent lead qualification workflow executed.
+- Lead priority analysis was generated.
+- Output saved to `outputs/crewai_analysis.txt`.
+
+### Demo Data Disclaimer
+
+This portfolio uses fictional sample records.
+The lead analysis demonstrates workflow behavior and does not
+represent live web research, real contact verification, or
+real-world business intelligence.
