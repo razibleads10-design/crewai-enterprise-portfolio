@@ -9,7 +9,7 @@ def build_agents():
         raise RuntimeError("Set GEMINI_API_KEY before running CrewAI.")
 
     llm = LLM(
-        model="gemini/gemini-2.5-flash",
+        model="gemini/gemini-3.5-flash-lite",
         api_key=api_key
     )
 
