@@ -1,0 +1,6 @@
+company,email,website,industry,employees,lead_score,lead_category,processing_status
+Northstar Analytics,contact@northstar.example,https://northstar.example,Technology,120,100,High,processed
+BluePeak Logistics,hello@bluepeak.example,https://bluepeak.example,Logistics,85,100,High,processed
+CedarWorks Studio,,https://cedarworks.example,Design,12,50,Medium,processed
+Summit Health Systems,info@summithealth.example,,Healthcare,240,85,High,processed
+Riverstone Retail,sales@riverstone.example,https://riverstone.example,Retail,45,75,High,processed

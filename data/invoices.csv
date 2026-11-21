@@ -1,0 +1,6 @@
+invoice_id,vendor,amount,currency,invoice_date
+INV-1001,Northstar Supplies,1250.00,USD,2026-10-02
+INV-1002,BluePeak Services,875.50,USD,2026-10-05
+INV-1002,BluePeak Services,875.50,USD,2026-10-05
+INV-1003,CedarWorks Office,420.00,USD,2026-10-08
+INV-1004,Summit Equipment,0,USD,2026-10-09

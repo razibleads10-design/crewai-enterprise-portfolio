@@ -1,0 +1,20 @@
+{
+  "project": "CrewAI Enterprise Portfolio",
+  "execution_mode": "deterministic_demo",
+  "lead_pipeline": {
+    "total_leads": 5,
+    "high": 4,
+    "medium": 1,
+    "low": 0,
+    "output": "/content/crewai-enterprise-portfolio/outputs/enriched_leads.csv"
+  },
+  "invoice_audit": {
+    "total_records": 5,
+    "valid_invoices": 4,
+    "invalid_invoices": 1,
+    "duplicate_invoice_ids": [
+      "INV-1002"
+    ],
+    "valid_amount_total": 3421.0
+  }
+}

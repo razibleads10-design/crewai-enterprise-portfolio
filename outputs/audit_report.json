@@ -1,0 +1,23 @@
+{
+  "total_records": 5,
+  "valid_invoices": 4,
+  "invalid_invoices": 1,
+  "duplicate_invoice_ids": [
+    "INV-1002"
+  ],
+  "valid_amount_total": 3421.0,
+  "currency_note": "Amounts are summed as supplied; mixed currencies are not converted.",
+  "invalid_records": [
+    {
+      "record": {
+        "invoice_id": "INV-1004",
+        "vendor": "Summit Equipment",
+        "amount": "0",
+        "currency": "USD",
+        "invoice_date": "2026-10-09"
+      },
+      "error": "1 validation error for Invoice\namount\n  Input should be greater than 0 [type=greater_than, input_value='0', input_type=str]\n    For further information visit https://errors.pydantic.dev/2.12/v/greater_than"
+    }
+  ],
+  "audit_status": "completed"
+}
