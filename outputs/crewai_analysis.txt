@@ -1,0 +1,42 @@
+As Lead Qualification Analyst, I have evaluated and prioritized the supplied B2B lead records based strictly on the provided data, incorporating factors such as data completeness, contact channel availability, organization scale (employee count), and operational readiness.
+
+Below is the transparent, evidence-based prioritization of the leads.
+
+---
+
+### Lead Priority Ranking
+
+#### **1. Northstar Analytics** (Priority: High)
+* **Evidence & Reasoning:**
+  * **Data Completeness:** 100% complete record with zero missing fields.
+  * **Contact Channels:** Fully accessible via both direct email (`contact@northstar.example`) and a verified company website (`https://northstar.example`).
+  * **Scale:** Mid-sized enterprise with 120 employees, offering a strong balance of operational scale and decision-making agility.
+  * **Priority Rationale:** Due to complete data, dual-channel outreach capability, and robust employee scale, this lead presents the lowest friction and highest immediate outreach potential.
+
+#### **2. BluePeak Logistics** (Priority: High)
+* **Evidence & Reasoning:**
+  * **Data Completeness:** 100% complete record with zero missing fields.
+  * **Contact Channels:** Fully accessible via active email (`hello@bluepeak.example`) and website (`https://bluepeak.example`).
+  * **Scale:** Solid mid-tier organization with 85 employees.
+  * **Priority Rationale:** Shares the same high data quality and multi-channel availability as Northstar Analytics, making it immediately actionable, though slightly smaller in employee count.
+
+#### **3. Riverstone Retail** (Priority: Medium)
+* **Evidence & Reasoning:**
+  * **Data Completeness:** 100% complete record with zero missing fields.
+  * **Contact Channels:** Features a direct sales email (`sales@riverstone.example`) and accessible website (`https://riverstone.example`).
+  * **Scale:** Smaller enterprise with 45 employees.
+  * **Priority Rationale:** While the data is fully complete and multi-channel outreach is possible, the smaller employee count (45) places it below the larger mid-market firms in terms of potential organizational scope.
+
+#### **4. Summit Health Systems** (Priority: Medium-Low)
+* **Evidence & Reasoning:**
+  * **Data Completeness:** Incomplete record; the `website` field is blank (`''`).
+  * **Contact Channels:** Limited strictly to email (`info@summithealth.example`). Web-based enrichment or digital verification cannot be conducted directly via a company URL from the dataset.
+  * **Scale:** Largest organization in the dataset with 240 employees (Healthcare industry).
+  * **Priority Rationale:** Despite possessing the highest employee count, the lack of a website restricts outreach to a single channel and hinders digital research, introducing operational friction that lowers its immediate execution priority.
+
+#### **5. CedarWorks Studio** (Priority: Low)
+* **Evidence & Reasoning:**
+  * **Data Completeness:** Incomplete record; the `email` field is blank (`''`).
+  * **Contact Channels:** Limited strictly to the company website (`https://cedarworks.example`). Direct email outreach is impossible using the structured data alone.
+  * **Scale:** Smallest organization in the dataset with only 12 employees (Design industry).
+  * **Priority Rationale:** Combining the smallest organizational scale with a missing primary communication channel (email) makes this lead the most resource-intensive and least actionable in the current batch.
