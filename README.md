@@ -103,3 +103,32 @@ This portfolio uses fictional sample records.
 The lead analysis demonstrates workflow behavior and does not
 represent live web research, real contact verification, or
 real-world business intelligence.
+
+
+## Extended Automated Test Verification
+
+The project includes an extended unit test suite.
+
+Verified test coverage:
+- Empty lead field scoring
+- Invalid employee count handling
+- Lead CSV processing and output generation
+- Invoice date validation
+- Blank vendor validation
+- Empty invoice input handling
+- Invoice duplicate detection
+- Lead scoring
+
+Test execution:
+```bash
+python -m unittest discover -s tests -v
+```
+
+Latest verification result:
+- Total tests: 8
+- Passed: 8
+- Failed: 0
+
+These results cover deterministic unit tests.
+Live Gemini/CrewAI execution and API endpoint integration
+are separate verification steps.
